@@ -289,6 +289,7 @@
   "Game settings updated successfully": "ゲーム設定の更新に成功",
   "GAME.PrivateNotInvited": "このゲームはPrivate{{- infoLink}} 、あなたは招待されていません。",
   "GAME.PrivateNotLoggedIn": "このゲームはPrivate{{- infoLink}} で、アクセスするには{{- loginLink}} が必要です。",
+  "GAME.PrivateNotLoggedIn.loginLink": "ログイン",
   "Games Configuration": "ゲーム構成",
   "GAMES.LinkToLFG": "また、{{- forumLink}} のフォーラムカテゴリーを閲覧したり、投稿したりすることも可能です。",
   "Gargantuan data storage quotas": "巨大なデータストレージのクォータ",

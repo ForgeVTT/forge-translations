@@ -289,6 +289,7 @@
   "Game settings updated successfully": "Game settings updated successfully",
   "GAME.PrivateNotInvited": "This game is Private {{- infoLink}} and you were not invited to it.",
   "GAME.PrivateNotLoggedIn": "This game is Private {{- infoLink}}  and you must {{- loginLink}} to access it",
+  "GAME.PrivateNotLoggedIn.loginLink": "login",
   "Games Configuration": "Games Configuration",
   "GAMES.LinkToLFG": "Alternatively, feel free to browse or post in our {{- forumLink}} forum category.",
   "Gargantuan data storage quotas": "Gargantuan data storage quotas",

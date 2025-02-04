@@ -892,7 +892,7 @@
   "Extracting {{- filename}}": "Extraction de {{- filename}}",
   "Extras": "Extras",
   "Failed to {{action}} server: {{- error}}": "Erreur lors de l'action {{action}} sur le serveur : {{- error}}",
-  "Failed to {{verb}} {{- type}}: {{- error}}": "Échec pour {{verb}} {{- type}} : {{- error}}",
+  "Failed to {{verb}} {{- type}} {{- name}}: {{- error}}": "Échec pour {{verb}} {{- type}} {{- name}} : {{- error}}",
   "Failed to {{verb}} Favorite: {{- error}}": "Échec pour {{verb}} les favoris : {{- error}}",
   "Failed to extract {{count}} files from {{- zipName}}_one": "{{count}} fichiers n'ont pas pu être extraits à partir de l'archive  {{- zipName}}",
   "Failed to extract {{count}} files from {{- zipName}}_many": "{{count}} fichiers n'ont pas pu être extraits de {{- zipName}}",

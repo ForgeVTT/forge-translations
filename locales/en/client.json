@@ -870,7 +870,7 @@
   "Extracting {{- filename}}": "Extracting {{- filename}}",
   "Extras": "Extras",
   "Failed to {{action}} server: {{- error}}": "Failed to {{action}} server: {{- error}}",
-  "Failed to {{verb}} {{- type}}: {{- error}}": "Failed to {{verb}} {{- type}}: {{- error}}",
+  "Failed to {{verb}} {{- type}} {{- name}}: {{- error}}": "Failed to {{verb}} {{- type}} {{- name}}: {{- error}}",
   "Failed to {{verb}} Favorite: {{- error}}": "Failed to {{verb}} Favorite: {{- error}}",
   "Failed to extract {{count}} files from {{- zipName}}_one": "Failed to extract {{count}} file from {{- zipName}}",
   "Failed to extract {{count}} files from {{- zipName}}_other": "Failed to extract {{count}} files from {{- zipName}}",

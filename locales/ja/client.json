@@ -863,7 +863,7 @@
   "Extracting {{- filename}}": "抽出する{{- filename}}",
   "Extras": "エクストラ",
   "Failed to {{action}} server: {{- error}}": "Failed to {{action}} server: {{- error}}",
-  "Failed to {{verb}} {{- type}}: {{- error}}": "{{verb}} {{- type}} に失敗しました。{{- error}}",
+  "Failed to {{verb}} {{- type}} {{- name}}: {{- error}}": "{{verb}} {{- type}} {{- name}} に失敗しました。{{- error}}",
   "Failed to {{verb}} Favorite: {{- error}}": "{{verb}} お気に入りに失敗しました。{{- error}}",
   "Failed to extract {{count}} files from {{- zipName}}_other": "Failed to extract {{count}} files from {{- zipName}}",
   "Failed to import {{failures}} {{type}}": "インポートに失敗しました{{failures}} {{type}}",

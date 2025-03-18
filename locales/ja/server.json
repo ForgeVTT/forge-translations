@@ -755,7 +755,7 @@
   "You cannot enable the time limited demo when you already have a Foundry license": "すでにFoundryのライセンスを持っている場合、期間限定のデモを有効にすることはできません。",
   "You cannot Favorite a game you have not been invited to.": "招待されていないゲームをお気に入りに登録することはできません。",
   "You cannot make a purchase without setting at least the preview or commit option.": "少なくともプレビューまたはコミットオプションを設定しなければ、購入することはできません。",
-  "You cannot Pay What You Want for this item": "この商品はPay What You Wantではありません。",
+  "You cannot Pay What You Can for this item": "この商品はPay What You Canではありません。",
   "You cannot perform this action on a game which you do not own.": "所有していないゲームに対して、このアクションを実行することはできません。",
   "You cannot perform this action on The Forge": "The Forgeではこのアクションを実行できません。",
   "You cannot perform this action on this game.": "このゲームでは、このアクションは実行できません。",

@@ -610,6 +610,7 @@
   "There is already an account using this email address. Sign in to that account and link it with {{type}} manually from Account Settings.": "このメールアドレスを使用したアカウントがすでに存在します。そのアカウントにサインインし、アカウント設定から手動で{{type}} とリンクさせてください。",
   "Third-Party Processors and Your Data": "Third-Party Processors and Your Data",
   "This {{type}} account is already linked to another Forge account. If you wish to relink it with this account, please login using {{type}} then unlink it from the other account.": "この{{type}} アカウントは、すでに他の Forge アカウントにリンクされています。このアカウントと再リンクしたい場合は、{{type}} を使用してログインし、他のアカウントからリンクを解除してください。",
+  "This chatbot uses AI and our [documentation](https://forums.forge-vtt.com/docs) to help answer your questions. If it cannot provide an answer or the answer is incorrect, feel free to [contact us](/contact) at any time to get further help.": "This chatbot uses AI and our [documentation](https://forums.forge-vtt.com/docs) to help answer your questions. If it cannot provide an answer or the answer is incorrect, feel free to [contact us](/contact) at any time to get further help.",
   "This Coupon is not currently available": "現在、このクーポンはご利用いただけません。",
   "This game cannot be launched. Reason: Demo License expired": "このゲームは起動できません。理由デモライセンス期限切れ",
   "This game cannot be launched. The game owner must first launch this game to allow world data migration.": "このゲームを起動することはできません。ワールドデータの移行を行うには、ゲームオーナーがこのゲームを先に起動する必要があります。",

@@ -430,7 +430,6 @@
   "Manifest is not for the correct package": "Manifest ist nicht für das richtige Paket",
   "Manifest URL in the manifest does not match the entered url": "Manifest-URL im Manifest stimmt nicht mit der eingegebenen Url überein",
   "Manifest URL returned data in the wrong format": "Manifest-URL gab Daten im falschen Format zurück",
-  "Mark all as read": "Mark all as read",
   "Maybe you're searching in the wrong place?": "Vielleicht suchen Sie an der falschen Stelle?",
   "Method Not Allowed": "Nicht erlaubte Methode",
   "Minimum price for '{{pkgTitle}}' is $ {{minPrice}}": "Der Mindestpreis für '{{pkgTitle}}' beträgt $ {{minPrice}}",

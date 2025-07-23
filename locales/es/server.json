@@ -1,7 +1,7 @@
 {
   "[Bazaar] Package ready for review: {{pkg.title}}": "[Bazar] Paquete listo para revisión: {{pkg.title}}",
-  "[The Forge] Password reset": "[Restablecer contraseña",
-  "[The Forge] Verify your email address": "[Verifique su dirección de correo electrónico",
+  "[The Forge] Password reset": "[The Forge] Restablecer contraseña",
+  "[The Forge] Verify your email address": "[The Forge] [Verifique su dirección de correo electrónico",
   "{{- data.title}} version {{data.version}} does not specify a compatibleCoreVersion and may not work with Foundry VTT version {{coreVersion}}": "{{- data.title}} versión {{data.version}} no especifica un compatibleCoreVersion y puede no funcionar con la versión Foundry VTT {{coreVersion}}",
   "{{- data.title}} version {{data.version}} may not be compatible with Foundry VTT versions newer than {{data.compatibleCoreVersion}}": "{{- data.title}} La versión {{data.version}} puede no ser compatible con las versiones de Foundry VTT más recientes que {{data.compatibleCoreVersion}}",
   "{{gameTitle}} is taking longer than expected to start. Please wait a minute and then try again. If this issue persists, {{- infoLink}}.": "{{gameTitle}} is taking longer than expected to start. Please wait a minute and then try again. If this issue persists, {{- infoLink}}.",

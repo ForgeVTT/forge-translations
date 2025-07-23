@@ -1,10 +1,10 @@
 {
-  "Advanced User Management": "Advanced User Management",
+  "Advanced User Management": "Gestion des utilisateurs avancée",
   "Alabama": "Alabama",
   "Alaska": "Alaska",
   "Alberta": "Alberta",
-  "All Game Master and Story Teller features, plus": "All Game Master and Story Teller features, plus",
-  "All Game Master features, plus": "All Game Master features, plus",
+  "All Game Master and Story Teller features, plus": "Toutes les fonctionnalités de Maître du jeu et de Conteur d'histoire, plus",
+  "All Game Master features, plus": "Toutes les fonctionnalités de Maître du jeu, plus",
   "Arizona": "Arizona",
   "Arkansas": "Arkansas",
   "Asset Packs": "Packs d'assets",
@@ -20,14 +20,14 @@
   "BAZAAR_TAG.adventure": "Aventure",
   "BAZAAR_TAG.adversary-tokens": "Adversaire",
   "BAZAAR_TAG.alien-scifi": "Alien",
-  "BAZAAR_TAG.animated-attacks": "Sorts/Attaques Animées",
+  "BAZAAR_TAG.animated-attacks": "Sorts/Attaques animés",
   "BAZAAR_TAG.animated-effects": "Effets Animés",
   "BAZAAR_TAG.animated-maps": "Cartes Animées",
   "BAZAAR_TAG.animations": "Animé",
   "BAZAAR_TAG.aquatic-location": "Aquatique",
   "BAZAAR_TAG.asian": "Asiatique",
   "BAZAAR_TAG.audio": "Collection Audio",
-  "BAZAAR_TAG.battlemaps": "Battlemap",
+  "BAZAAR_TAG.battlemaps": "Carte de bataille",
   "BAZAAR_TAG.beach": "Plage",
   "BAZAAR_TAG.bestial-bestiary": "Bestial",
   "BAZAAR_TAG.british-culture": "Britannique",
@@ -271,5 +271,6 @@
   "{{count}} TB_many": "{{count}} TB",
   "{{count}} TB_one": "{{count}} TB",
   "{{count}} TB_other": "{{count}} TB",
-  "{{title}} (Restored from {{date}})": "{{title}} (Restauré au {{date}})"
+  "{{title}} (Restored from {{date}})": "{{title}} (Restauré au {{date}})",
+  "BAZAAR_TAG.animated-assets": "Assets de carte animée"
 }

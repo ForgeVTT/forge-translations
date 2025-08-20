@@ -20,6 +20,7 @@
   "BAZAAR_TAG.adventure": "Aventure",
   "BAZAAR_TAG.adversary-tokens": "Adversaire",
   "BAZAAR_TAG.alien-scifi": "Alien",
+  "BAZAAR_TAG.animated-assets": "Assets de carte animée",
   "BAZAAR_TAG.animated-attacks": "Sorts/Attaques animés",
   "BAZAAR_TAG.animated-effects": "Effets Animés",
   "BAZAAR_TAG.animated-maps": "Cartes Animées",
@@ -271,6 +272,5 @@
   "{{count}} TB_many": "{{count}} TB",
   "{{count}} TB_one": "{{count}} TB",
   "{{count}} TB_other": "{{count}} TB",
-  "{{title}} (Restored from {{date}})": "{{title}} (Restauré au {{date}})",
-  "BAZAAR_TAG.animated-assets": "Assets de carte animée"
+  "{{title}} (Restored from {{date}})": "{{title}} (Restauré au {{date}})"
 }

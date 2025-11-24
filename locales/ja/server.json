@@ -597,7 +597,6 @@
   "The game": "The game",
   "The Game does not exist.": "ゲームは存在しない。",
   "The game is currently in use and these settings could not be changed.": "現在、ゲームを使用中のため、これらの設定を変更することができませんでした。",
-  "The Game Manager has been disabled due to subscription downgrade. Use Foundry's 'Return to Setup' option or upgrade and re-enable the Game Manager to access all your games.": "サブスクリプションのダウングレードにより、Game Managerが無効になっています。Foundryの「セットアップに戻る」オプションを使用するか、アップグレードしてゲームマネージャーを再度有効にして、すべてのゲームにアクセスします。",
   "The game owner does not have a valid and unused Foundry license.": "ゲーム所有者が有効かつ未使用のFoundryライセンスを持っていない。",
   "The game owner does not have a valid hosting subscription.": "ゲームの所有者が有効なホスティング契約を結んでいない。",
   "The game system '{{system}}' is not compatible with your current Foundry version. The system needs to be updated.": "ゲームシステム「{{system}} 」は、現在お使いのFoundryのバージョンと互換性がありません。システムを更新する必要があります。",

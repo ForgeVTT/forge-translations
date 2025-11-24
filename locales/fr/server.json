@@ -597,7 +597,6 @@
   "The game": "The game",
   "The Game does not exist.": "Le Jeu n'existe pas.",
   "The game is currently in use and these settings could not be changed.": "Le jeu est actuellement en cours d'utilisation et ces paramètres n'ont pas pu être modifiés.",
-  "The Game Manager has been disabled due to subscription downgrade. Use Foundry's 'Return to Setup' option or upgrade and re-enable the Game Manager to access all your games.": "Le gestionnaire de jeux a été désactivé en raison d'une mise à niveau de l'abonnement. Utilisez l'option \"Retour à la configuration\" de Foundry ou effectuez une mise à niveau et réactivez le gestionnaire de jeux pour accéder à tous vos jeux.",
   "The game owner does not have a valid and unused Foundry license.": "Le propriétaire du jeu ne dispose pas d'une licence Foundry valide et non utilisée.",
   "The game owner does not have a valid hosting subscription.": "Le propriétaire du jeu ne dispose pas d'un abonnement d'hébergement valide.",
   "The game system '{{system}}' is not compatible with your current Foundry version. The system needs to be updated.": "Le système de jeu '{{system}}' n'est pas compatible avec votre version actuelle de Foundry. Le système doit être mis à jour.",

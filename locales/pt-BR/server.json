@@ -87,7 +87,7 @@
   "Authentication code cannot be blank.": "O código de autenticação não pode estar em branco.",
   "Authentication expired.": "A autenticação expirou.",
   "Authorize": "Autorizar",
-  "Autosave: Before upgrading to {{version}}": "Salvamento automático: Antes de actualizar para {{version}}",
+  "Autosave: Before upgrading to {{version}}": "Salvamento automático: Antes de atualizar para {{version}}",
   "Autosave: Save Point restored": "Salvamento automático: Save Point restaurado",
   "Available 24/7 - no bandwidth limits": "Disponível 24/7 - sem limites de largura de banda",
   "Background": "Antecedentes",

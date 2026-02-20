@@ -2472,6 +2472,7 @@
   "USER_ROLES.developer": "Developer",
   "USER_ROLES.developer-wb": "Developer (World Builder)",
   "USER_ROLES.moderator": "Moderator",
+  "USER_ROLES.bgk-beta-tester": "BGK Beta Tester",
   "USER_ROLES.sponsored-assets-10": "Sponsored Assets 10GB",
   "USER_ROLES.sponsored-assets-15": "Sponsored Assets 15GB",
   "USER_ROLES.sponsored-assets-20": "Sponsored Assets 20GB",

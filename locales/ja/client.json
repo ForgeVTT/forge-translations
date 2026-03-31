@@ -2450,6 +2450,7 @@
   "USER_ROLES.administrator": "Administrator",
   "USER_ROLES.bazaar-approver": "Bazaar Approver",
   "USER_ROLES.bazaar-payouts": "Bazaar Payouts",
+  "USER_ROLES.bgk-beta-tester": "BGK Beta Tester",
   "USER_ROLES.bookkeeping": "Bookkeeping",
   "USER_ROLES.creator": "Creator",
   "USER_ROLES.customer-service": "Customer Service",

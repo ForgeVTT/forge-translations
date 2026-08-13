@@ -782,7 +782,7 @@
   "You cannot unlink your Google account without first setting a username and password.": "No puedes desvincular tu cuenta de Google sin establecer antes un nombre de usuario y una contraseña.",
   "You cannot unlink your Patreon account without first setting a username and password.": "No puedes desvincular tu cuenta de Patreon sin establecer antes un nombre de usuario y una contraseña.",
   "You cannot update your subscription until your email address is verified.": "You cannot update your subscription until your email address is verified.",
-  "You cannot update your subscription while your account has an unpaid invoice.": "You cannot update your subscription while your account has an unpaid invoice.",
+  "You cannot update your subscription while your account has an unpaid invoice.": "No puedes actualizar tu suscripción mientras tu cuenta tenga una factura impaga.",
   "You cannot update your subscription without having a valid Foundry VTT license.": "You cannot update your subscription without having a valid Foundry VTT license.",
   "You cannot update your subscription without setting at least the preview or commit option.": "You cannot update your subscription without setting at least the preview or commit option.",
   "You cannot upgrade your subscription at the same time as you downgrade elements of it": "No puede actualizar su abono al mismo tiempo que reduce elementos del mismo",
